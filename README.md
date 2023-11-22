@@ -31,7 +31,7 @@ I hope I see the SneakyHub development community submit some pull requests and h
 I would love to see the community interact with a project like this. Just for fun :p 
 
 
-# Clone ing (cant spell) lol
+# Cloner.js
 
 !!! WARNING !!!
 You need to Modify the config of Cloner.js, don't edit anything unless you know what your doing.
